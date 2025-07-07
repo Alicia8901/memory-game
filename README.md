@@ -22,9 +22,6 @@ A fun and interactive memory card game where players flip cards to match pairs i
 ## 🚀 Live Demo
 (https://alicia8901.github.io/memory-game)
 
-## 📸 Screenshots
-![Memory Game Screenshot](screenshot_memory_game.png)
-
 ## 📚 Lessons Learned
 - Practiced DOM manipulation and event handling in JavaScript
 - Learned how to use timers and handle user interactions
